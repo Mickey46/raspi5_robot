@@ -12,7 +12,7 @@ Before running this script, ensure you have the following:
 
 ```bash
 pip install gpiozero
-
+```
 Hardware Setup
 
     Connect the forward, backward, and enable pins of Motor A to GPIO pins 22, 23, and 17 respectively.
